@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.1",
 	"author": "Kevin Button",
 	"description": "a project for completing the API's and microservices on the FCC course",
 	"keywords": ["freecodecamp", "nodeJS", "VSCode", "NPM"],
@@ -13,6 +14,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/kevinbutton93/APIs-and-microservices"
 	}
 }
