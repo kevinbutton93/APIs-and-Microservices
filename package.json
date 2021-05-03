@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"version": "0.1",
+	"version": "1.0.0",
 	"author": "Kevin Button",
 	"description": "a project for completing the API's and microservices on the FCC course",
 	"keywords": ["freecodecamp", "nodeJS", "VSCode", "NPM"],
