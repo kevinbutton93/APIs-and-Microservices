@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kevin Button",
+	"description": "a project for completing the API's and microservices on the FCC course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
